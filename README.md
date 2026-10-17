@@ -1,1 +1,1 @@
-# revou-day2
+# mini-project
